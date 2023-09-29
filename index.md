@@ -2,4 +2,4 @@
 title: Progress Blog
 ---
 
-Entries:
+body: Entries
